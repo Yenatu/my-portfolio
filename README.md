@@ -10,7 +10,7 @@ Welcome to my official portfolio repository! This site serves as a digital resum
 - 💼 **Experience:** Interned at Amhara Bureau of Agriculture ICT Center.
 
 ## 🔗 Live Demo
-[[Insert Your GitHub Pages Link Here](https://github.com/Yenatu/my-portfolio)]
+[(https://github.com/Yenatu/my-portfolio)]
 
 ## 📬 Contact
 - Email: ayeneaddisie19@gmail.com
